@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="janken_next">じゃん・けん・・・</string>
+    <string name="back_text">戻る</string>
+</resources>
